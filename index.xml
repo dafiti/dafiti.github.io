@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brand New DftEch Team blog</title>
+    <link>http://dafiti.tech/</link>
+    <description>Recent content on Brand New DftEch Team blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Mar 2017 14:19:23 -0300</lastBuildDate>
+    
+	<atom:link href="http://dafiti.tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vai Planeta!</title>
+      <link>http://dafiti.tech/index/</link>
+      <pubDate>Wed, 29 Mar 2017 14:19:23 -0300</pubDate>
+      
+      <guid>http://dafiti.tech/index/</guid>
+      <description>Somos o time de desenvolvimento do maior e-commerce de moda da América Latina, a Dafiti. Aqui mantemos e evoluimos os sistemas da Dafiti, Kanui, Tricae e lojas parceiras.
+E nesse espaço vamos falar um pouco de tudo o que estamos aprendendo, acertando e errando. A idéia é construirmos um ambiente de debate para que todos possam conhecer um pouco do trabalho que realizamos.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://dafiti.tech/blog/1/</link>
+      <pubDate>Wed, 29 Mar 2017 14:10:42 -0300</pubDate>
+      
+      <guid>http://dafiti.tech/blog/1/</guid>
+      <description>gg123</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://dafiti.tech/posts/1/</link>
+      <pubDate>Wed, 29 Mar 2017 14:04:53 -0300</pubDate>
+      
+      <guid>http://dafiti.tech/posts/1/</guid>
+      <description>gg</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://dafiti.tech/join-the-team/dec/</link>
+      <pubDate>Tue, 28 Mar 2017 16:06:29 -0300</pubDate>
+      
+      <guid>http://dafiti.tech/join-the-team/dec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estamos Contratando!</title>
+      <link>http://dafiti.tech/full-stack-developer/</link>
+      <pubDate>Tue, 28 Mar 2017 16:06:19 -0300</pubDate>
+      
+      <guid>http://dafiti.tech/full-stack-developer/</guid>
+      <description>Estamos aumentando nossos times venha fazer parte!
+Veja nossas vagas: Join the team</description>
+    </item>
+    
+    <item>
+      <title>Full-Stack Developer AKA Software &#39;BadAss&#39; Engineer</title>
+      <link>http://dafiti.tech/join-the-team/full-stack-developer/</link>
+      <pubDate>Tue, 28 Mar 2017 16:06:19 -0300</pubDate>
+      
+      <guid>http://dafiti.tech/join-the-team/full-stack-developer/</guid>
+      <description>Somos o time de desenvolvimento do maior e-commerce de moda da América Latina, a Dafiti. Aqui mantemos e evoluimos os sistemas da Dafiti, Kanui e Tricae. Se você é criativo e com bom senso, é flexível e comprometido, tem paixão por tecnologia e engenharia de alta qualidade, venha trabalhar conosco, pois temos muito em comum :) Sobre o trabalho Como um desenvolvedor full-stack você fará parte de um time de desenvolvedores muito habilidosos, designers e product owners.</description>
+    </item>
+    
+    <item>
+      <title>Join the team</title>
+      <link>http://dafiti.tech/join-the-team/dftechers/</link>
+      <pubDate>Tue, 28 Mar 2017 14:10:48 -0300</pubDate>
+      
+      <guid>http://dafiti.tech/join-the-team/dftechers/</guid>
+      <description>Texto bacanudo para as pessoas clicarem nos links abaixo Full-Stack Developer
+Engineering Coordinator</description>
+    </item>
+    
+  </channel>
+</rss>
