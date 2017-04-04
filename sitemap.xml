@@ -7,22 +7,12 @@
   </url>
   
   <url>
-    <loc>http://dafiti.tech/blog/1/</loc>
-    <lastmod>2017-03-29T14:10:42-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://dafiti.tech/posts/1/</loc>
-    <lastmod>2017-03-29T14:04:53-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://dafiti.tech/join-the-team/dec/</loc>
     <lastmod>2017-03-28T16:06:29-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://dafiti.tech/full-stack-developer/</loc>
+    <loc>http://dafiti.tech/vagas/</loc>
     <lastmod>2017-03-28T16:06:19-03:00</lastmod>
   </url>
   
@@ -37,17 +27,6 @@
   </url>
   
   <url>
-    <loc>http://dafiti.tech/blog/</loc>
-    <lastmod>2017-03-29T14:10:42-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://dafiti.tech/categories/blog/</loc>
-    <lastmod>2017-03-29T14:10:42-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://dafiti.tech/</loc>
     <lastmod>2017-03-29T14:19:23-03:00</lastmod>
     <priority>0</priority>
@@ -55,7 +34,6 @@
   
   <url>
     <loc>http://dafiti.tech/categories/</loc>
-    <lastmod>2017-03-29T14:10:42-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -68,12 +46,6 @@
   <url>
     <loc>http://dafiti.tech/join-the-team/</loc>
     <lastmod>2017-03-28T16:06:29-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://dafiti.tech/posts/</loc>
-    <lastmod>2017-03-29T14:04:53-03:00</lastmod>
     <priority>0</priority>
   </url>
   
