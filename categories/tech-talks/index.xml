@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech Talks on Brand New DftEch Team blog</title>
+    <link>http://dafiti.tech/categories/tech-talks/</link>
+    <description>Recent content in Tech Talks on Brand New DftEch Team blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Jul 2017 15:24:45 -0300</lastBuildDate>
+    
+	<atom:link href="http://dafiti.tech/categories/tech-talks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tech Talks</title>
+      <link>http://dafiti.tech/home/1/</link>
+      <pubDate>Fri, 07 Jul 2017 15:24:45 -0300</pubDate>
+      
+      <guid>http://dafiti.tech/home/1/</guid>
+      <description>Retomamos a algum tempo as nossas Tech Talks internas, iremos publica-las neste espaço sempre que tivermos atualizações.
+Confiram: Tech Talks</description>
+    </item>
+    
+    <item>
+      <title>Tech Talks</title>
+      <link>http://dafiti.tech/tech-talks/all/</link>
+      <pubDate>Fri, 07 Jul 2017 15:24:45 -0300</pubDate>
+      
+      <guid>http://dafiti.tech/tech-talks/all/</guid>
+      <description> Confira nossa tech talks internas:
+API Gateway Começamos a expadir o conceito de API Gateway aqui na Dafiti:
+  DevTools - Dafiti &amp;ldquo;DevOps&amp;rdquo; Team Definição o papel do nosso time de Devtools
+  WalNut - BDD testing framework Nosso framework para automação de testes
+  Drones Tambem somos entusiastas das paradas que avua
+  </description>
+    </item>
+    
+  </channel>
+</rss>

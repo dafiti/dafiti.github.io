@@ -2,8 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://dafiti.tech/home/1/</loc>
+    <lastmod>2017-07-07T15:24:45-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dafiti.tech/tech-talks/all/</loc>
+    <lastmod>2017-07-07T15:24:45-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://dafiti.tech/index/</loc>
     <lastmod>2017-03-29T14:19:23-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dafiti.tech/posts/1/</loc>
+    <lastmod>2017-03-29T14:04:53-03:00</lastmod>
   </url>
   
   <url>
@@ -27,13 +42,32 @@
   </url>
   
   <url>
+    <loc>http://dafiti.tech/categories/blog/</loc>
+    <lastmod>2017-03-29T14:04:53-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://dafiti.tech/</loc>
-    <lastmod>2017-03-29T14:19:23-03:00</lastmod>
+    <lastmod>2017-07-07T15:24:45-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://dafiti.tech/categories/</loc>
+    <lastmod>2017-03-29T14:04:53-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dafiti.tech/categories/content/</loc>
+    <lastmod>2017-07-07T15:24:45-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dafiti.tech/home/</loc>
+    <lastmod>2017-07-07T15:24:45-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -46,6 +80,24 @@
   <url>
     <loc>http://dafiti.tech/join-the-team/</loc>
     <lastmod>2017-03-28T16:06:29-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dafiti.tech/posts/</loc>
+    <lastmod>2017-03-29T14:04:53-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dafiti.tech/categories/tech-talks/</loc>
+    <lastmod>2017-07-07T15:24:45-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dafiti.tech/tech-talks/</loc>
+    <lastmod>2017-07-07T15:24:45-03:00</lastmod>
     <priority>0</priority>
   </url>
   

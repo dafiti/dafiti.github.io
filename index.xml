@@ -6,10 +6,34 @@
     <description>Recent content on Brand New DftEch Team blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Mar 2017 14:19:23 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jul 2017 15:24:45 -0300</lastBuildDate>
     
 	<atom:link href="http://dafiti.tech/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tech Talks</title>
+      <link>http://dafiti.tech/home/1/</link>
+      <pubDate>Fri, 07 Jul 2017 15:24:45 -0300</pubDate>
+      
+      <guid>http://dafiti.tech/home/1/</guid>
+      <description>Retomamos a algum tempo as nossas Tech Talks internas, iremos publica-las neste espaço sempre que tivermos atualizações.
+Confiram: Tech Talks</description>
+    </item>
+    
+    <item>
+      <title>Tech Talks</title>
+      <link>http://dafiti.tech/tech-talks/all/</link>
+      <pubDate>Fri, 07 Jul 2017 15:24:45 -0300</pubDate>
+      
+      <guid>http://dafiti.tech/tech-talks/all/</guid>
+      <description> Confira nossa tech talks internas:
+API Gateway Começamos a expadir o conceito de API Gateway aqui na Dafiti:
+  DevTools - Dafiti &amp;ldquo;DevOps&amp;rdquo; Team Definição o papel do nosso time de Devtools
+  WalNut - BDD testing framework Nosso framework para automação de testes
+  Drones Tambem somos entusiastas das paradas que avua
+  </description>
+    </item>
     
     <item>
       <title>Vai Planeta!</title>
@@ -19,6 +43,15 @@
       <guid>http://dafiti.tech/index/</guid>
       <description>Somos o time de desenvolvimento do maior e-commerce de moda da América Latina, a Dafiti. Aqui mantemos e evoluimos os sistemas da Dafiti, Kanui, Tricae e lojas parceiras.
 E nesse espaço vamos falar um pouco de tudo o que estamos aprendendo, acertando e errando. A idéia é construirmos um ambiente de debate para que todos possam conhecer um pouco do trabalho que realizamos.</description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>http://dafiti.tech/posts/1/</link>
+      <pubDate>Wed, 29 Mar 2017 14:04:53 -0300</pubDate>
+      
+      <guid>http://dafiti.tech/posts/1/</guid>
+      <description>gg</description>
     </item>
     
     <item>

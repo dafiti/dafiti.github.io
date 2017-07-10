@@ -6,9 +6,28 @@
     <description>Recent content in Categories on Brand New DftEch Team blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 29 Mar 2017 14:04:53 -0300</lastBuildDate>
     
 	<atom:link href="http://dafiti.tech/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog</title>
+      <link>http://dafiti.tech/categories/blog/</link>
+      <pubDate>Wed, 29 Mar 2017 14:04:53 -0300</pubDate>
+      
+      <guid>http://dafiti.tech/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content</title>
+      <link>http://dafiti.tech/categories/content/</link>
+      <pubDate>Fri, 07 Jul 2017 15:24:45 -0300</pubDate>
+      
+      <guid>http://dafiti.tech/categories/content/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Jobs</title>
@@ -16,6 +35,15 @@
       <pubDate>Tue, 28 Mar 2017 16:06:19 -0300</pubDate>
       
       <guid>http://dafiti.tech/categories/jobs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech Talks</title>
+      <link>http://dafiti.tech/categories/tech-talks/</link>
+      <pubDate>Fri, 07 Jul 2017 15:24:45 -0300</pubDate>
+      
+      <guid>http://dafiti.tech/categories/tech-talks/</guid>
       <description></description>
     </item>
     
